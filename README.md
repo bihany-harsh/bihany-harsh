@@ -8,6 +8,7 @@
 <table style="width:100%">
   <tr>
     <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bihany-harsh&layout=compact&langs_count=6" /></th>
+    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bihany-harsh&layout=compact&theme=radical&langs_count=6" /></th>
   </tr>
 </table>
 <br>
